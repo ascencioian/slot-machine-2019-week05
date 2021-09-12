@@ -1,5 +1,5 @@
 # Slot Machine
-This is a project for creating a slot machine. You start of with $1000 credits. you press the betting buttons to bet either $5 or $50. if you win, you win 10X your initial bet and it will get added to your total credits. there is a prompt telling you if you win or lose for every bet.
+This is a project for creating a slot machine. You start of with $1000 credits. You press the betting buttons to bet either $5 or $50. if you win, you win 10X your initial bet and it will get added to your total credits. there is a prompt telling you if you win or lose for every bet.
 
 **Link to project:** 
 
